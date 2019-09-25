@@ -1,0 +1,20 @@
+.coins-table {
+    border-collapse: collapse;    
+    margin-top: 20px;
+    width: 100%;
+}
+
+.coins-table th {
+    font-size: 145%;
+    border-bottom-color: #000; 
+}
+
+.coins-table tr {
+    line-height: 30px;
+    border-bottom: 1px solid rgba(173, 173, 173, 0.8);
+}
+
+.coins-table td {
+    font-size: 90%;
+    text-align: justify;
+}
